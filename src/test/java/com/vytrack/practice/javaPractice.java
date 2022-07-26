@@ -3,7 +3,7 @@ package com.vytrack.practice;
 public class javaPractice {
     public static void main(String[] args) {
 
-        System.out.println(reverse(124));
+        System.out.println(reverse(205));
 
     }
 
